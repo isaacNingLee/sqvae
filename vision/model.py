@@ -7,6 +7,7 @@ from quantizer import GaussianVectorQuantizer, VmfVectorQuantizer
 import networks.mnist as net_mnist
 import networks.fashion_mnist as net_fashionmnist
 import networks.cifar10 as net_cifar10
+import networks.cifar100 as net_cifar100
 import networks.celeba as net_celeba
 import networks.celebamask_hq as net_celebamask_hq
 from third_party.ive import ive
